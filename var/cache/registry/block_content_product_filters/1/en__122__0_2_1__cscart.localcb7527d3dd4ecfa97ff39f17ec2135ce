@@ -1,0 +1,156 @@
+a:2:{s:4:"data";a:2:{s:10:"javascript";s:241:"<script type="text/javascript" src="http://cscart.local/js/tygh/product_filters.js?ver=1620056557" ></script><script type="text/javascript" src="http://cscart.local/js/lib/jqueryuitouch/jquery.ui.touch-punch.min.js?ver=1620056557" ></script>";s:7:"content";s:6454:"        <div class="ty-sidebox-important">
+        <h3 class="ty-sidebox-important__title">
+            
+                            <span class="ty-sidebox__title-wrapper">Product filters</span>
+                        
+
+        </h3>
+        <div class="ty-sidebox-important__body">
+<!-- Inline script moved to the bottom of the page -->
+
+        
+
+<div class="cm-product-filters"
+    data-ca-target-id="product_filters_*,selected_filters_*,products_search_*,category_products_*,currencies_*,languages_*,product_features_*"
+    data-ca-base-url="http://cscart.local/office-supplies/calculators/"
+    data-ca-tooltip-class = "ty-product-filters__tooltip"
+    data-ca-tooltip-right-class = "ty-product-filters__tooltip--right"
+    data-ca-tooltip-mobile-class = "ty-tooltip--mobile"
+    data-ca-tooltip-layout-selector = "[data-ca-tooltip-layout='true']"
+    data-ce-tooltip-events-tooltip = "mouseenter"
+    id="product_filters_31">
+<div class="ty-product-filters__wrapper" data-ca-product-filters="wrapper" >
+
+    
+                    
+                    
+            
+    <div class="ty-product-filters__block">
+        <div id="sw_content_31_10" class="ty-product-filters__switch cm-combination-filter_31_10 open cm-save-state cm-ss-reverse">
+            <span class="ty-product-filters__title">Brand</span>
+            <i class="ty-product-filters__switch-down ty-icon-down-open"></i>
+            <i class="ty-product-filters__switch-right ty-icon-up-open"></i>
+        </div>
+
+        
+                            <ul class="ty-product-filters " id="content_31_10">
+
+    
+    
+                        <li class="ty-product-filters__item-more">
+                <ul id="ranges_31_10" style="max-height: 20em;" class="ty-product-filters__variants cm-filter-table" data-ca-input-id="elm_search_31_10" data-ca-clear-id="elm_search_clear_31_10" data-ca-empty-id="elm_search_empty_31_10">
+
+                                            <li class="cm-product-filters-checkbox-container ty-product-filters__group">
+                            <label >
+                                <input class="cm-product-filters-checkbox"
+                                       type="checkbox"
+                                                                              name="product_filters[10]"
+                                       data-ca-filter-id="10"
+                                       value="125"
+                                       id="elm_checkbox_31_10_125"
+                                        >
+                                <span>Casio</span>
+                            </label>
+                        </li>
+                                    </ul>
+            </li>
+                <li>
+            <p id="elm_search_empty_31_10" class="ty-product-filters__no-items-found hidden">No items found matching the search criteria</p>
+        </li>
+    </ul>
+
+                    
+
+    </div>
+    
+
+    
+                    
+                    
+            
+    <div class="ty-product-filters__block">
+        <div id="sw_content_31_1" class="ty-product-filters__switch cm-combination-filter_31_1 open cm-save-state cm-ss-reverse">
+            <span class="ty-product-filters__title">Price</span>
+            <i class="ty-product-filters__switch-down ty-icon-down-open"></i>
+            <i class="ty-product-filters__switch-right ty-icon-up-open"></i>
+        </div>
+
+        
+                                                <!-- Inline script moved to the bottom of the page -->
+
+
+<div id="content_31_1" class="cm-product-filters-checkbox-container ty-price-slider  ">
+    <p class="ty-price-slider__inputs">
+        <bdi class="ty-price-slider__bidi-container">
+            <span class="ty-price-slider__filter-prefix">$</span>
+            <input type="text"
+                class="ty-price-slider__input-text"
+                id="slider_31_1_left"
+                name="left_31_1"
+                value="17"
+                                data-ca-previous-value="17"/>
+            
+        </bdi>
+        &nbsp;–&nbsp;
+        <bdi class="ty-price-slider__bidi-container">
+            <span class="ty-price-slider__filter-prefix">$</span>
+            <input type="text"
+                class="ty-price-slider__input-text"
+                id="slider_31_1_right"
+                name="right_31_1"
+                value="130"
+                                data-ca-previous-value="130"/>
+            
+        </bdi>
+    </p>
+        <div id="slider_31_1" class="ty-range-slider cm-range-slider">
+            <ul class="ty-range-slider__wrapper">
+                <li class="ty-range-slider__item" style="left: 0%;">
+                    <span class="ty-range-slider__num">
+                                                <span>&lrm;$<bdi><span>17</span></bdi></span>
+                                            </span>
+                </li>
+                <li class="ty-range-slider__item" style="left: 100%;">
+                    <span class="ty-range-slider__num">
+                                                <span>&lrm;$<bdi><span>130</span></bdi></span>
+                                            </span>
+                </li>
+            </ul>
+        </div>
+
+        <input id="elm_checkbox_slider_31_1" data-ca-filter-id="1" class="cm-product-filters-checkbox hidden" type="checkbox" name="product_filters[1]" value=""  />
+
+        
+        <input type="hidden" id="slider_31_1_json" value='{
+            "disabled": false,
+            "min": 17,
+            "max": 130,
+            "left": 17,
+            "right": 130,
+            "step": 1,
+            "extra": "USD"
+        }' />
+        
+</div>
+
+                                    
+
+    </div>
+    
+
+
+<div class="ty-product-filters__tools clearfix hidden" data-ca-product-filters="tools">
+
+    <a href="http://cscart.local/office-supplies/calculators/" rel="nofollow" class="ty-product-filters__reset-button cm-ajax cm-ajax-full-render cm-history" data-ca-event="ce.filtersinit" data-ca-target-id="product_filters_*,selected_filters_*,products_search_*,category_products_*,currencies_*,languages_*,product_features_*"><i class="ty-product-filters__reset-icon ty-icon-cw"></i> Reset</a>
+
+</div>
+
+</div>
+<!--product_filters_31--></div>
+
+<div data-ca-tooltip-layout="true" class="hidden">
+    <button type="button" data-ca-scroll=".ty-mainbox-title" class="cm-scroll ty-tooltip--link ty-tooltip--filter"><span class="tooltip-arrow"></span></button>
+</div></div>
+    </div>
+
+";}s:6:"expiry";i:0;}
