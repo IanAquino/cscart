@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+
+<addon scheme='2.0'>
+    <id>point</id>
+    <version>1.0</version>
+    <name>point</name>
+    <description>points</description>
+    <priority>100500</priority>
+
+<settings>
+
+    <sections>
+        <section id="general">
+            <items>
+                <item id="header_general">
+                    <name>Settings</name>
+                    <type>header</type>
+                    <default_value>points</default_value>
+                </item>
+                <item id="num_point_in_registration">
+                    <name>Number of points</name>
+                    <type>input</type>
+                    <default_value>10</default_value>
+                       
+                </item>
+                <item id="num_point_in_purchase">
+                    <name>Number of points</name>
+                    <type>input</type>
+                    <default_value>10</default_value>
+                       
+                </item>
+            </items>
+        </section>
+    </sections>
+</settings>
+
+ <queries>
+    <item for="install">
+        CREATE TABLE IF NOT EXISTS cscart_points (
+        id_points INT(11) NOT NULL,
+        fk_user_id MEDIUMINT(8) UNSIGNED NOT NULL,
+        total_pontos INT(11) NOT NULL,
+        data DATETIME NOT NULL DEFAULT CURRENT_TIMESTAMP,
+        PRIMARY KEY (id_points),
+        INDEX fk_cscart_points_cscart_users_idx (fk_user_id ASC)
+        )
+    </item>
+   </queries> 
+
+
+</addon>

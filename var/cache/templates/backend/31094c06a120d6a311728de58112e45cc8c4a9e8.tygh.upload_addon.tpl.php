@@ -1,6 +1,6 @@
-<?php /* Smarty version Smarty-3.1.21, created on 2021-05-03 17:33:00
+<?php /* Smarty version Smarty-3.1.21, created on 2021-05-31 19:04:15
          compiled from "C:\xampp\htdocs\cscart\design\backend\templates\views\addons\components\upload_addon.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:16592578746090099cb35456-73281548%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:58989487360b508ff8b5347-15465395%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -11,7 +11,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'tygh',
     ),
   ),
-  'nocache_hash' => '16592578746090099cb35456-73281548',
+  'nocache_hash' => '58989487360b508ff8b5347-15465395',
   'function' => 
   array (
   ),
@@ -22,9 +22,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.21',
-  'unifunc' => 'content_6090099cb3aca9_14009145',
+  'unifunc' => 'content_60b508ff8bf913_28427749',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_6090099cb3aca9_14009145')) {function content_6090099cb3aca9_14009145($_smarty_tpl) {?><?php
+<?php if ($_valid && !is_callable('content_60b508ff8bf913_28427749')) {function content_60b508ff8bf913_28427749($_smarty_tpl) {?><?php
 \Tygh\Languages\Helper::preloadLangVars(array('install_addon_text','marketplace_find_more','upload_install'));
 ?>
 <div id="addon_upload_container" class="install-addon">

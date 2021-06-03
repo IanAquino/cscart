@@ -1,6 +1,6 @@
-<?php /* Smarty version Smarty-3.1.21, created on 2021-05-03 17:35:02
+<?php /* Smarty version Smarty-3.1.21, created on 2021-06-03 17:35:38
          compiled from "C:\xampp\htdocs\cscart\design\themes\responsive\templates\addons\discussion\views\discussion\components\stars.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:163444306460900a163fc745-08101237%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:55516160160b8e8bac82423-97054759%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -11,7 +11,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'tygh',
     ),
   ),
-  'nocache_hash' => '163444306460900a163fc745-08101237',
+  'nocache_hash' => '55516160160b8e8bac82423-97054759',
   'function' => 
   array (
   ),
@@ -26,9 +26,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.21',
-  'unifunc' => 'content_60900a16416030_05083190',
+  'unifunc' => 'content_60b8e8bac9fe31_58964726',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_60900a16416030_05083190')) {function content_60900a16416030_05083190($_smarty_tpl) {?><?php if (!is_callable('smarty_function_set_id')) include 'C:/xampp/htdocs/cscart/app/functions/smarty_plugins\\function.set_id.php';
+<?php if ($_valid && !is_callable('content_60b8e8bac9fe31_58964726')) {function content_60b8e8bac9fe31_58964726($_smarty_tpl) {?><?php if (!is_callable('smarty_function_set_id')) include 'C:/xampp/htdocs/cscart/app/functions/smarty_plugins\\function.set_id.php';
 ?><?php if ($_smarty_tpl->tpl_vars['runtime']->value['customization_mode']['design']=="Y"&&(defined('AREA') ? constant('AREA') : null)=="C") {
 $_smarty_tpl->_capture_stack[0][] = array("template_content", null, null); ob_start();
 $_smarty_tpl->tpl_vars['link_target'] = new Smarty_variable((($tmp = @$_smarty_tpl->tpl_vars['link_target']->value)===null||$tmp==='' ? "auto" : $tmp), null, 0);?>

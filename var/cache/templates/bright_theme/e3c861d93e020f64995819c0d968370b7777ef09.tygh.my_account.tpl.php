@@ -1,6 +1,6 @@
-<?php /* Smarty version Smarty-3.1.21, created on 2021-05-03 17:34:59
+<?php /* Smarty version Smarty-3.1.21, created on 2021-06-03 17:35:37
          compiled from "C:\xampp\htdocs\cscart\design\themes\bright_theme\templates\blocks\my_account.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:127782820660900a13059072-69126031%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:49659497260b8e8b9611860-76949630%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -11,7 +11,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'tygh',
     ),
   ),
-  'nocache_hash' => '127782820660900a13059072-69126031',
+  'nocache_hash' => '49659497260b8e8b9611860-76949630',
   'function' => 
   array (
   ),
@@ -31,9 +31,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.21',
-  'unifunc' => 'content_60900a130bd998_35555668',
+  'unifunc' => 'content_60b8e8b9681ca6_80856778',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_60900a130bd998_35555668')) {function content_60900a130bd998_35555668($_smarty_tpl) {?><?php if (!is_callable('smarty_function_live_edit')) include 'C:/xampp/htdocs/cscart/app/functions/smarty_plugins\\function.live_edit.php';
+<?php if ($_valid && !is_callable('content_60b8e8b9681ca6_80856778')) {function content_60b8e8b9681ca6_80856778($_smarty_tpl) {?><?php if (!is_callable('smarty_function_live_edit')) include 'C:/xampp/htdocs/cscart/app/functions/smarty_plugins\\function.live_edit.php';
 if (!is_callable('smarty_block_hook')) include 'C:/xampp/htdocs/cscart/app/functions/smarty_plugins\\block.hook.php';
 if (!is_callable('smarty_modifier_count')) include 'C:/xampp/htdocs/cscart/app/functions/smarty_plugins\\modifier.count.php';
 if (!is_callable('smarty_function_set_id')) include 'C:/xampp/htdocs/cscart/app/functions/smarty_plugins\\function.set_id.php';

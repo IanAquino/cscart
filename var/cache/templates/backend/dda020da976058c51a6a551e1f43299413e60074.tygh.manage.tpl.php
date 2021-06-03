@@ -1,6 +1,6 @@
-<?php /* Smarty version Smarty-3.1.21, created on 2021-05-03 17:33:00
+<?php /* Smarty version Smarty-3.1.21, created on 2021-05-31 19:04:15
          compiled from "C:\xampp\htdocs\cscart\design\backend\templates\views\addons\manage.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:4044005176090099ca17e13-35050811%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:209659284260b508ff6adb12-90717274%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -11,7 +11,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'tygh',
     ),
   ),
-  'nocache_hash' => '4044005176090099ca17e13-35050811',
+  'nocache_hash' => '209659284260b508ff6adb12-90717274',
   'function' => 
   array (
   ),
@@ -26,9 +26,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.21',
-  'unifunc' => 'content_6090099ca71270_07009613',
+  'unifunc' => 'content_60b508ff73b0f6_90223542',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_6090099ca71270_07009613')) {function content_6090099ca71270_07009613($_smarty_tpl) {?><?php if (!is_callable('smarty_function_script')) include 'C:/xampp/htdocs/cscart/app/functions/smarty_plugins\\function.script.php';
+<?php if ($_valid && !is_callable('content_60b508ff73b0f6_90223542')) {function content_60b508ff73b0f6_90223542($_smarty_tpl) {?><?php if (!is_callable('smarty_function_script')) include 'C:/xampp/htdocs/cscart/app/functions/smarty_plugins\\function.script.php';
 if (!is_callable('smarty_block_hook')) include 'C:/xampp/htdocs/cscart/app/functions/smarty_plugins\\block.hook.php';
 ?><?php
 \Tygh\Languages\Helper::preloadLangVars(array('marketplace','marketplace_find_more','change_addons_initialization','tools_addons_installed_count','tools_addons_activated_count','tools_addons_other_addons_count','change_addons_initialization_description','tools_addons_disable_all','tools_addons_disable_third_party','tools_addons_disabled_msg','tools_re_enable_add_ons','upload_addon','upload_addon','addons'));

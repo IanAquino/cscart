@@ -1,6 +1,6 @@
-<?php /* Smarty version Smarty-3.1.21, created on 2021-05-03 17:33:00
+<?php /* Smarty version Smarty-3.1.21, created on 2021-05-31 19:04:15
          compiled from "C:\xampp\htdocs\cscart\design\backend\templates\views\addons\components\addons_list.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:8983268066090099ccdc8a3-30563169%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:192451086960b508ffac1177-35141103%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -11,7 +11,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'tygh',
     ),
   ),
-  'nocache_hash' => '8983268066090099ccdc8a3-30563169',
+  'nocache_hash' => '192451086960b508ffac1177-35141103',
   'function' => 
   array (
   ),
@@ -47,9 +47,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.21',
-  'unifunc' => 'content_6090099cd51807_43520104',
+  'unifunc' => 'content_60b508ffb45a40_21805577',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_6090099cd51807_43520104')) {function content_6090099cd51807_43520104($_smarty_tpl) {?><?php if (!is_callable('smarty_modifier_enum')) include 'C:/xampp/htdocs/cscart/app/functions/smarty_plugins\\modifier.enum.php';
+<?php if ($_valid && !is_callable('content_60b508ffb45a40_21805577')) {function content_60b508ffb45a40_21805577($_smarty_tpl) {?><?php if (!is_callable('smarty_modifier_enum')) include 'C:/xampp/htdocs/cscart/app/functions/smarty_plugins\\modifier.enum.php';
 if (!is_callable('smarty_modifier_date_format')) include 'C:/xampp/htdocs/cscart/app/functions/smarty_plugins\\modifier.date_format.php';
 ?><?php
 \Tygh\Languages\Helper::preloadLangVars(array('name','version','developer','status','manage','settings','mve_ultimate_or_plus_license_required','mve_ultimate_license_required','ultimate_license_required','tools','settings','licensing_and_upgrades','licensing_and_upgrades','uninstall','refresh','install','no_data'));

@@ -1,6 +1,6 @@
-<?php /* Smarty version Smarty-3.1.21, created on 2021-05-03 17:35:03
+<?php /* Smarty version Smarty-3.1.21, created on 2021-06-03 17:35:39
          compiled from "C:\xampp\htdocs\cscart\design\themes\responsive\templates\blocks\smarty_block.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:109110268660900a175d3bb8-02965031%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:105661391960b8e8bb31a827-02420439%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -11,7 +11,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'tygh',
     ),
   ),
-  'nocache_hash' => '109110268660900a175d3bb8-02965031',
+  'nocache_hash' => '105661391960b8e8bb31a827-02420439',
   'function' => 
   array (
   ),
@@ -25,9 +25,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.21',
-  'unifunc' => 'content_60900a175e6dd1_45301939',
+  'unifunc' => 'content_60b8e8bb331024_46736698',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_60900a175e6dd1_45301939')) {function content_60900a175e6dd1_45301939($_smarty_tpl) {?><?php if (!is_callable('smarty_function_live_edit')) include 'C:/xampp/htdocs/cscart/app/functions/smarty_plugins\\function.live_edit.php';
+<?php if ($_valid && !is_callable('content_60b8e8bb331024_46736698')) {function content_60b8e8bb331024_46736698($_smarty_tpl) {?><?php if (!is_callable('smarty_function_live_edit')) include 'C:/xampp/htdocs/cscart/app/functions/smarty_plugins\\function.live_edit.php';
 if (!is_callable('smarty_function_eval_string')) include 'C:/xampp/htdocs/cscart/app/functions/smarty_plugins\\function.eval_string.php';
 if (!is_callable('smarty_function_set_id')) include 'C:/xampp/htdocs/cscart/app/functions/smarty_plugins\\function.set_id.php';
 ?><?php if ($_smarty_tpl->tpl_vars['runtime']->value['customization_mode']['design']=="Y"&&(defined('AREA') ? constant('AREA') : null)=="C") {
